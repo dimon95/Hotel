@@ -1,0 +1,16 @@
+F:\С#_projects_vs2015\Labs\Hotel\Hotel\bin\Debug\Hotel.exe.config
+F:\С#_projects_vs2015\Labs\Hotel\Hotel\bin\Debug\Hotel.exe
+F:\С#_projects_vs2015\Labs\Hotel\Hotel\bin\Debug\Hotel.pdb
+F:\С#_projects_vs2015\Labs\Hotel\Hotel\bin\Debug\EntityFramework.dll
+F:\С#_projects_vs2015\Labs\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.dll
+F:\С#_projects_vs2015\Labs\Hotel\Hotel\bin\Debug\HotelDBContext.dll
+F:\С#_projects_vs2015\Labs\Hotel\Hotel\bin\Debug\Model.dll
+F:\С#_projects_vs2015\Labs\Hotel\Hotel\bin\Debug\Utils.dll
+F:\С#_projects_vs2015\Labs\Hotel\Hotel\bin\Debug\HotelDBContext.pdb
+F:\С#_projects_vs2015\Labs\Hotel\Hotel\bin\Debug\Model.pdb
+F:\С#_projects_vs2015\Labs\Hotel\Hotel\bin\Debug\Utils.pdb
+F:\С#_projects_vs2015\Labs\Hotel\Hotel\bin\Debug\EntityFramework.xml
+F:\С#_projects_vs2015\Labs\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.xml
+F:\С#_projects_vs2015\Labs\Hotel\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+F:\С#_projects_vs2015\Labs\Hotel\Hotel\obj\Debug\Hotel.exe
+F:\С#_projects_vs2015\Labs\Hotel\Hotel\obj\Debug\Hotel.pdb

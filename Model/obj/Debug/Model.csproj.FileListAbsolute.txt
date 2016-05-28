@@ -1,0 +1,12 @@
+F:\С#_projects_vs2015\Labs\Hotel\Model\bin\Debug\Model.dll.config
+F:\С#_projects_vs2015\Labs\Hotel\Model\bin\Debug\Model.dll
+F:\С#_projects_vs2015\Labs\Hotel\Model\bin\Debug\Model.pdb
+F:\С#_projects_vs2015\Labs\Hotel\Model\bin\Debug\EntityFramework.dll
+F:\С#_projects_vs2015\Labs\Hotel\Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\С#_projects_vs2015\Labs\Hotel\Model\bin\Debug\Utils.dll
+F:\С#_projects_vs2015\Labs\Hotel\Model\bin\Debug\Utils.pdb
+F:\С#_projects_vs2015\Labs\Hotel\Model\bin\Debug\EntityFramework.xml
+F:\С#_projects_vs2015\Labs\Hotel\Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\С#_projects_vs2015\Labs\Hotel\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\С#_projects_vs2015\Labs\Hotel\Model\obj\Debug\Model.dll
+F:\С#_projects_vs2015\Labs\Hotel\Model\obj\Debug\Model.pdb

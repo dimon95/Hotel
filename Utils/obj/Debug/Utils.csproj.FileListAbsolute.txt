@@ -1,0 +1,10 @@
+F:\С#_projects_vs2015\Labs\Hotel\Utils\bin\Debug\Utils.dll.config
+F:\С#_projects_vs2015\Labs\Hotel\Utils\bin\Debug\Utils.dll
+F:\С#_projects_vs2015\Labs\Hotel\Utils\bin\Debug\Utils.pdb
+F:\С#_projects_vs2015\Labs\Hotel\Utils\bin\Debug\EntityFramework.dll
+F:\С#_projects_vs2015\Labs\Hotel\Utils\bin\Debug\EntityFramework.SqlServer.dll
+F:\С#_projects_vs2015\Labs\Hotel\Utils\bin\Debug\EntityFramework.xml
+F:\С#_projects_vs2015\Labs\Hotel\Utils\bin\Debug\EntityFramework.SqlServer.xml
+F:\С#_projects_vs2015\Labs\Hotel\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+F:\С#_projects_vs2015\Labs\Hotel\Utils\obj\Debug\Utils.dll
+F:\С#_projects_vs2015\Labs\Hotel\Utils\obj\Debug\Utils.pdb
